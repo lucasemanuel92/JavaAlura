@@ -1,10 +1,10 @@
-# Java Alura
+# Java: Criando a sua Primeira Aplicação - Alura
 ## PT-BR
-Aqui estão os exercícios realizados durante o curso de Java oferecido pela plataforma Alura. Nem todos os códigos são iguais pois tentei fazer algumas coisas diferentes durante
+Aqui estão os exercícios realizados durante o curso de Java: Criando a sua Primeira Aplicação, oferecido pela plataforma Alura. Nem todos os códigos são iguais pois tentei fazer algumas coisas diferentes durante
 as aulas. Caso tenha algum comentário ou dúvida, sinta-se a vontade para entrar em contato
 
 ## EN
-Here are the exercises performed during the Java course offered by the Alura platform. Not all codes are the same as I tried to do some different things during
+Here are the exercises performed during the Java: creating your first application course offered by the Alura platform. Not all codes are the same as I tried to do some different things during
 like classes. If you have any comments or questions, feel free to get in touch
 
 <a href="mailto:lucas.emanuel.carvalho@outlook.com">
