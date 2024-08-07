@@ -10,6 +10,7 @@ public class Main {
         int anoDeLancamento = 2001;
         System.out.println("Ano de Lançamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
+
         double notaDoFilme = 9.3;
 
         // É possível fazer calculos direto no código
@@ -19,6 +20,10 @@ public class Main {
         // Para escrever com multiplas linhas é só usar tres aspas duplas """ """
         String sinopse;
         sinopse = "Conta a história da formação da Sociedade do Anel rumo a Mordor";
-        System.out.println(sinopse + ", " + anoDeLancamento);
+        System.out.println(sinopse + ", " + anoDeLancamento + ", " + incluidoNoPlano);
+
+        // Uma das formas de arredondar é
+        int classificacao = (int) (mediaDaNota/2);
+        System.out.println(classificacao);
     }
 }
