@@ -1,3 +1,5 @@
+package PrimeirosProgramas;
+
 // Criar uma classe chamada Estudo e uma mensagem sobre seus estudos
 public class Estudos {
     public static void main(String[] args) {
