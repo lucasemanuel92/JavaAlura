@@ -11,5 +11,14 @@ public class Main {
         System.out.println("Ano de Lançamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
         double notaDoFilme = 9.3;
+
+        // É possível fazer calculos direto no código
+        double mediaDaNota = (9.5 + notaDoFilme + 8) / 3;
+        System.out.println(mediaDaNota);
+
+        // Para escrever com multiplas linhas é só usar tres aspas duplas """ """
+        String sinopse;
+        sinopse = "Conta a história da formação da Sociedade do Anel rumo a Mordor";
+        System.out.println(sinopse + ", " + anoDeLancamento);
     }
 }
