@@ -14,6 +14,7 @@ public class Condicional {
         }
 
         // Não é necessário colocar o "boolean == true"
+        // Para usar o termo OU "||" e para usar o termo E "&&"
         if (incluidoNoPlano == true || tipPlano.equals("plus")) { // ".equals()" é comparação de igualdade para strings
             System.out.println("Filme liberado. Divirta-se");
         } else {
