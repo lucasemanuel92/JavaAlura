@@ -15,8 +15,6 @@ public class Tabuada {
             System.out.printf("%d * %d = %d \n", calculos, tabuada, valorFinal);
         }
 
-
-
         escolha.close();
     }
 }
