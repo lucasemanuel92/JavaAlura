@@ -1,4 +1,5 @@
 # Java: Criando a sua Primeira Aplicação - Alura
+## COMPLETO / COMPLETE
 ## PT-BR
 Aqui estão os exercícios realizados durante o curso de Java: Criando a sua Primeira Aplicação, oferecido pela plataforma Alura. Nem todos os códigos são iguais pois tentei fazer algumas coisas diferentes durante
 as aulas. Caso tenha algum comentário ou dúvida, sinta-se a vontade para entrar em contato
